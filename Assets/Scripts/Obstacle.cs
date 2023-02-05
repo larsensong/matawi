@@ -5,6 +5,7 @@ using UnityEngine;
 public class Obstacle : MonoBehaviour
 {
     private GameObject player;
+  
 
     private void Start()
     {
