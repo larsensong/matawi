@@ -12,7 +12,8 @@
 
 > 📝 **Summary:**
 
-> This is a 2D survial game.
+> This is a 2D survial game. The game is based on a character moivng through obstacles to survive attack.
+The game is developed in unity platform with coding languages like C#.
 
 <br>
 
