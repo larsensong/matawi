@@ -2,18 +2,14 @@
 
 <br>
 
-<div>
-  <a href="https://github.com/larsensong/alx-low_level_programming">
-    
-  </a>
-</div>
-
-<br>
 
 > 📝 **Summary:**
 
-> This is a 2D survial game. The game is based on a character moivng through obstacles to survive attack.
-The game is developed in unity platform with coding languages like C#.
+> This is a 2D survival game.
+> 
+>The game is based on a character moving through obstacles and trying to achieve the highest possible score.
+>
+>The game is developed on the Unity platform in C#.
 
 <br>
 
