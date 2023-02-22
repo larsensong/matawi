@@ -11,6 +11,7 @@
 >
 >The game is developed on the Unity platform in C#.
 >The game is still under development.
+>
 >The prototype is playable with one level available for testing.
 
 <br>
