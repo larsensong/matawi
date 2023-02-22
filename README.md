@@ -1,4 +1,4 @@
-> Matawi
+> MATAWI
 
 <br>
 
@@ -10,6 +10,8 @@
 >The game is based on a character moving through obstacles and trying to achieve the highest possible score.
 >
 >The game is developed on the Unity platform in C#.
+>The game is still under development.
+>The prototype is playable with one level available for testing.
 
 <br>
 
