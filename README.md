@@ -37,3 +37,17 @@
  <br>
 
 > Link : <a href="larsensong.itch.io/matawi">Matawi Playable Demo</a>
+
+
+## :blue_book: Authors
+* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
+
+## :mag: License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/BennettDixon/holberton-system_engineering-devops/blob/master/LICENSE.md) file for details
+
+
+
+## :mega: Acknowledgments
+
+* Global Game Jam (providing guidance)
