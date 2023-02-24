@@ -52,3 +52,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ## :mega: Acknowledgments
 
 * Global Game Jam (providing guidance)
+* Nairobi Game Development Center(providing Platform)
