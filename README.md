@@ -41,11 +41,11 @@
 
 ## :blue_book: Authors
 * **Larsen Song** 
-* ** Iam Not Nato** 
+* **Alan Nato**
 
 ## :mag: License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/BennettDixon/holberton-system_engineering-devops/blob/master/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/LarsenSong/Matawi/blob/master/LICENSE.md) file for details
 
 
 
