@@ -40,7 +40,8 @@
 
 
 ## :blue_book: Authors
-* **Bennett Dixon** - [@BennettDixon](https://github.com/BennettDixon)
+* **Larsen Song** 
+* ** Iam Not Nato** 
 
 ## :mag: License
 
